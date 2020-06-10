@@ -4,3 +4,5 @@
 
 使用方法：
 直接运行 main.py
+
+目前爬取代理网站:66ip,xicidaili
